@@ -1,0 +1,16 @@
+# CMP 210 stack velocity function (velo1, version 2) read from the GeoEast Velocity Browser screenshot
+# time_ms velocity_m/s
+174 1590
+300 1820
+650 2500
+875 2660
+1150 3180
+1274 3390
+1777 3920
+2031 3990
+2322 4050
+2724 4110
+2927 4190
+3175 4220
+4100 5100
+4607 5620
